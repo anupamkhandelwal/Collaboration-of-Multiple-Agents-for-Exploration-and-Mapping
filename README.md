@@ -11,9 +11,9 @@ natural beings like ants, bees and fishes to achieve tasks which when other done
 utterly impossible. This set phenomenon gave rise to the field of robotics known as *Cooperative
 Multi Agent Robot Systems* or in layman terms *Swarm Robot Systems.*
 
-For Brief Presentation: [Click here.]()
+For Brief Presentation: [Click here.](https://github.com/anupamkhandelwal/Collaboration-of-Multiple-Agents-for-Exploration-and-Mapping/blob/main/Presentation.pptx)
 
-For Thesis Report: [Click here.]()
+For Thesis Report: [Click here.](https://github.com/anupamkhandelwal/Collaboration-of-Multiple-Agents-for-Exploration-and-Mapping/blob/main/Thesis.pdf)
 
 **Part I: Simulation of one soft agent for unknown-area exploration using SRT algorithm.**
 
